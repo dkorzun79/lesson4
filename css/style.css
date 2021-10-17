@@ -25,5 +25,23 @@ font-style: italic;
 text-align: center;
 margin: 0 25px;
 color:#25a561;
+border-top: 1px solid #32686a;
+}
 
+p {
+font-family: Verdana;
+font-size: 0.8em;
+text-indent: 3%;
+text-align: justify;
+padding-top: 5px;
+padding-right: 25px;
+padding-bottom: 5px;
+padding-left: 25px;
+}
+
+ul {
+font-family: Arial;
+font-size: 110%;
+font-style: italic;
+color: #25a561
 }
