@@ -37,10 +37,7 @@ font-family: Verdana;
 font-size: 0.8em;
 text-indent: 3%;
 text-align: justify;
-padding-top: 5px;
-padding-right: 25px;
-padding-bottom: 5px;
-padding-left: 25px;
+padding: 5px 25px;
 }
 
 ul {
